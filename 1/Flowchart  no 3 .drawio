@@ -32,7 +32,7 @@
         <mxCell id="eEdHUnmBB0p7iLZNosYY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eEdHUnmBB0p7iLZNosYY-4" target="eEdHUnmBB0p7iLZNosYY-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TbdEaEAv8u_x3WOiRAMn-1" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Mendeklarasikan variabel&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;count, *temp, sum&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="TbdEaEAv8u_x3WOiRAMn-1" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Mendeklarasikan variabel&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;count, *temp, sum&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;labelPosition=center;align=center;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="286" y="130" width="256" height="90" as="geometry" />
         </mxCell>
       </root>
