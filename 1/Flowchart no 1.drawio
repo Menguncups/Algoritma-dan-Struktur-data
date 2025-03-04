@@ -4,34 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Z9RD0ILjchvAD5ngvGT-1" target="6Z9RD0ILjchvAD5ngvGT-2">
+        <mxCell id="Lugko4a8hCNuf6KqDRZI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Z9RD0ILjchvAD5ngvGT-1" target="Lugko4a8hCNuf6KqDRZI-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="6Z9RD0ILjchvAD5ngvGT-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="390" y="80" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6Z9RD0ILjchvAD5ngvGT-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-2" value="Mendeklarasikan array arr dan&amp;nbsp;&lt;div&gt;panjang dari array arr&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="170" width="255" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Z9RD0ILjchvAD5ngvGT-3" target="6Z9RD0ILjchvAD5ngvGT-4">
+        <mxCell id="Lugko4a8hCNuf6KqDRZI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Z9RD0ILjchvAD5ngvGT-3" target="6Z9RD0ILjchvAD5ngvGT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-3" value="Membalikan data di array menggunakan temp" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="190" height="60" as="geometry" />
+        <mxCell id="6Z9RD0ILjchvAD5ngvGT-3" value="Membalikan data di array menggunakan temp" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="345" y="300" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Z9RD0ILjchvAD5ngvGT-4" target="6Z9RD0ILjchvAD5ngvGT-5">
+        <mxCell id="Lugko4a8hCNuf6KqDRZI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Z9RD0ILjchvAD5ngvGT-4" target="6Z9RD0ILjchvAD5ngvGT-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-4" value="Mencetak hasil pembalikan array" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="310" y="360" width="250" height="70" as="geometry" />
+        <mxCell id="6Z9RD0ILjchvAD5ngvGT-4" value="Mencetak hasil pembalikan array" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="315" y="400" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6Z9RD0ILjchvAD5ngvGT-5" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="460" width="115" height="60" as="geometry" />
+        <mxCell id="6Z9RD0ILjchvAD5ngvGT-5" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="382.5" y="510" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lugko4a8hCNuf6KqDRZI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lugko4a8hCNuf6KqDRZI-3" target="6Z9RD0ILjchvAD5ngvGT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lugko4a8hCNuf6KqDRZI-3" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Mendeklarasikan array arr dan&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: wrap; padding-left: 0px; padding-top: 0px;&quot;&gt;panjang dari array arr&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="345" y="180" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
