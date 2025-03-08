@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Halaman-1" id="7f6Jf4QFKxaNMWJssP77">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sXgsyXYbe8fj_MhNdIs-4" target="9sXgsyXYbe8fj_MhNdIs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-4" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-5" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sXgsyXYbe8fj_MhNdIs-6" target="9sXgsyXYbe8fj_MhNdIs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-6" value="Membuat fungsi&amp;nbsp;&lt;div&gt;int Empty(Stack *S)&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;strokeWidth=2;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-7" value="Melakukan proses&amp;nbsp;&lt;div&gt;S-&amp;gt;Count == 0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sXgsyXYbe8fj_MhNdIs-8" target="9sXgsyXYbe8fj_MhNdIs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sXgsyXYbe8fj_MhNdIs-8" target="9sXgsyXYbe8fj_MhNdIs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-8" value="S-&amp;gt;Count == 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="484.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-9" value="Stack tidak kosong" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9sXgsyXYbe8fj_MhNdIs-10" target="9sXgsyXYbe8fj_MhNdIs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-10" value="Stack kosong" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9sXgsyXYbe8fj_MhNdIs-9" target="9sXgsyXYbe8fj_MhNdIs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sXgsyXYbe8fj_MhNdIs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9sXgsyXYbe8fj_MhNdIs-7" target="9sXgsyXYbe8fj_MhNdIs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
